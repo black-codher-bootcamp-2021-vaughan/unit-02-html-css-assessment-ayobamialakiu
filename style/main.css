@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+    color: rgb(58, 8, 58);
+    line-height: 26px;
+    background-color: rgb(245, 225, 232);
+    
+}
+.purple-color{
+    color: #8845f4;
+}
+
+    
+.greenyellow-color{
+    color: rgb(181, 221, 122);
+}
+
+.software-Developer{
+   color:  rgb(88, 88, 206);
+   font: Blue;
+}
+
+
+
+
+
+
+.half-width{
+    width:50%;
+    float:left;
+}
+.side-img{
+    width: 50%;
+    padding-left: 25%;
+}
+.primary-btn {
+    color: white;
+    background-color: rgb(197, 69, 197);
+    padding: 13px 42px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.secondary-btn{
+    color: white;
+    background-color: rgb(197, 69, 197);
+    padding: 13px 42px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
+
+
+
+h1{
+    font-size: 2.5em;
+}
+.container{
+    padding-left:5%;
+    display: inline-block;
+}
+.experiences {
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(65, 9, 65);
+    border-radius: 20px;
+    color: rgb(245, 225, 232);
+}
+.experience-item {
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2)
+}
+
+ul{
+    display: inline;
+}
+li{
+    display: inline;
+}
