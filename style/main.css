@@ -1,0 +1,95 @@
+body {
+    padding-left: 5%;
+    font-family: sans-serif;
+    color: rgb(58, 8, 58);
+    line-height: 26px;
+    background-color: rgb(245, 225, 232);
+    
+}
+.purple-color{
+    color: #8845f4;
+}
+
+    
+.greenyellow-color{
+    color: rgb(181, 221, 122);
+}
+
+.software-Developer{
+   color:  rgb(88, 88, 206);
+   font: Blue;
+}
+
+
+
+
+
+
+.half-width{
+    width:50%;
+    float:left;
+}
+.right-width{
+
+}
+nav{
+    padding: 10px;
+    margin-top: 10px;
+}
+#home{
+    margin-left: 30px;
+}
+#contact{
+    margin-left: 65px;
+}
+.side-img{
+
+    width: 370px;
+    height: 270px;
+    
+    
+}
+.primary-btn {
+    color: white;
+    background-color: rgb(197, 69, 197);
+    padding: 13px 42px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.secondary-btn{
+    color: white;
+    background-color: rgb(197, 69, 197);
+    padding: 13px 42px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
+
+
+
+h1{
+    font-size: 2.5em;
+}
+.container{
+    
+    display: inline-block;
+}
+.experiences {
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(65, 9, 65);
+    border-radius: 20px;
+    color: rgb(245, 225, 232);
+}
+.experience-item {
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2)
+}
+
+ul{
+    padding-inline-start: 0px;
+}
+li{
+    display: inline;
+}
